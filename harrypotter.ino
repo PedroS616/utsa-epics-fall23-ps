@@ -147,8 +147,9 @@ int melody[] = {
   NOTE_DS5, 2, NOTE_B4, 4,
   NOTE_DS5, -4, NOTE_D5, 8, NOTE_CS5, 4,
   NOTE_CS4, 2, NOTE_AS4, 4,
-  NOTE_G4, -1, 
+  NOTE_G4, 2, NOTE_G4, 1
   
+
 };
 
 // sizeof gives the number of bytes, each int value is composed of two bytes (16 bits)
