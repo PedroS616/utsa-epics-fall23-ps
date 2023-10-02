@@ -2,9 +2,10 @@
   Hedwig's theme - Harry Potter 
   Connect a piezo buzzer or speaker to pin 11 or select a new pin.
   More songs available at https://github.com/robsoncouto/arduino-songs                                            
-                                              
+                        
+Need to add light seperate on pin 13 (LED is the goal)                      
                                               Robson Couto, 2019
-*/rahhhhhh
+*/
 
 #define NOTE_B0  31
 #define NOTE_C1  33
